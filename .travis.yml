@@ -30,7 +30,7 @@ deploy:
   provider: cloudfiles
   username: travis-worker
   api_key:
-    secure: ALZrkCwjz3nY/9GfTNPgVQHUmUpCc5SnZTaqIUlJrhVyOBu6aktXaRmQi+sTXzFn7a/PQsYDnoZ8nibCZ472oUVDGUOSbtjIEkPodU+aisLN2dSLNueQsUU7Dmt0SaeyJVGovzfyUiavIYLuAfOtCfUKrwAsi7XTVNQpdyWCQDs=
+    secure: "fzoQ/4tEcwpq5Spc/qaGifvCm3JND0QMU5WeygGnwOLyoaVzrs8bO7qXMB1X4xOT2EiSuNbCxGRBtnd7A3+SJm7LRrwHOfcxMKk3rOVnBwTqWGvzdFckTz0sMod2/DBwPFhGgjbQ2Kcw7iUwajdSq+2i4GL133zFUSzTNwUMuEw="
   region: ORD
   container: wheels
   skip_cleanup: true
