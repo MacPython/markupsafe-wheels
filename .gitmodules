@@ -1,0 +1,6 @@
+[submodule "markupsafe"]
+	path = markupsafe
+	url = https://github.com/mitsuhiko/markupsafe
+[submodule "terryfy"]
+	path = terryfy
+	url = git://github.com/matthew-brett/terryfy.git
